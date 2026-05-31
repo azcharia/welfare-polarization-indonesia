@@ -1,0 +1,9 @@
+Eksperimen: 23_spectral_k3
+Algoritma: SpectralClustering
+Parameter: n_clusters=3, affinity=rbf
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 3
+Noise: 0
+Silhouette: 0.7087
+DBI: 0.4182

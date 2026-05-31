@@ -1,0 +1,6 @@
+Eksperimen: 2 FITUR: PDRB + P0 (tanpa pengangguran)
+Fitur (2): PDRB, P0
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.5882
+Davies-Bouldin Index: 0.5059

@@ -1,0 +1,9 @@
+Eksperimen: 25_mean_shift
+Algoritma: MeanShift
+Parameter: bandwidth=1.3968, bin_seeding=True
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 4
+Noise: 0
+Silhouette: 0.5437
+DBI: 0.4776

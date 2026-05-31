@@ -1,0 +1,6 @@
+Eksperimen: 2 FITUR: TPT + P0 (tanpa PDRB) — fokus pada kerentanan sosial
+Fitur (2): TPT, P0
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.4628
+Davies-Bouldin Index: 0.7560

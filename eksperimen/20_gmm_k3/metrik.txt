@@ -1,0 +1,9 @@
+Eksperimen: 20_gmm_k3
+Algoritma: GaussianMixture
+Parameter: n_components=3, covariance=full
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 3
+Noise: 0
+Silhouette: 0.1160
+DBI: 1.8562

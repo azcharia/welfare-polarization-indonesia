@@ -1,0 +1,9 @@
+Eksperimen: 14_dbscan_default
+Algoritma: DBSCAN
+Parameter: eps=0.5, min_samples=5, metric=euclidean
+Fitur: PDRB, TPT, P0
+Jumlah Observasi: 514
+Jumlah Klaster: 2
+Jumlah Noise (outlier): 33
+Silhouette Score: 0.4303
+Davies-Bouldin Index: 0.4529

@@ -1,0 +1,6 @@
+Eksperimen: SEMUA FITUR: PDRB + TPT + P0 + IPM + Sanitasi + Air Minum + Sekolah + Pengeluaran + UHH + TPAK
+Fitur (10): PDRB, TPT, P0, IPM, Sanitasi, AirMinum, Sekolah, Pengeluaran, UHH, TPAK
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.3119
+Davies-Bouldin Index: 1.1669

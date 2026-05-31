@@ -1,0 +1,15 @@
+Rank,Eksperimen,Deskripsi,Fitur,Jumlah Fitur,K,Silhouette,DBI,Status
+1,04_pdrb_only,1 FITUR: PDRB saja — apakah PDRB sendiri bisa membentuk klaster bermakna?,PDRB,1,3,0.8187212482006254,0.4257199625525492,✅ Selesai
+2,06_p0_only,1 FITUR: P0 (Kemiskinan) saja,P0,1,3,0.608025151951372,0.4900564713532827,✅ Selesai
+3,08_pdrb_p0,2 FITUR: PDRB + P0 (tanpa pengangguran),"PDRB, P0",2,3,0.5882486952012411,0.5058613089203431,✅ Selesai
+4,05_tpt_only,1 FITUR: TPT (Pengangguran) saja,TPT,1,3,0.5657547097561336,0.5388512878070465,✅ Selesai
+5,07_pdrb_tpt,2 FITUR: PDRB + TPT (tanpa kemiskinan),"PDRB, TPT",2,3,0.5549400325495749,0.6194413636285664,✅ Selesai
+6,09_tpt_p0,2 FITUR: TPT + P0 (tanpa PDRB) — fokus pada kerentanan sosial,"TPT, P0",2,3,0.4627546704512739,0.7560043775354505,✅ Selesai
+7,01_baseline,"BASELINE: PDRB + TPT + P0 (reproduksi model awal, cari K optimal)","PDRB, TPT, P0",3,2,0.43632462606719696,1.089022932303479,✅ Evaluasi K
+8,02_k4,K=4: PDRB + TPT + P0 dengan 4 klaster,"PDRB, TPT, P0",3,4,0.43186928320840084,0.752055451559928,✅ Selesai
+9,11_tambah_sanitasi,TAMBAH SANITASI: PDRB + TPT + P0 + Akses Sanitasi Layak,"PDRB, TPT, P0, Sanitasi",4,3,0.41544575039742004,1.0475407215755526,✅ Selesai
+10,10_tambah_ipm,TAMBAH IPM: PDRB + TPT + P0 + Indeks Pembangunan Manusia,"PDRB, TPT, P0, IPM",4,3,0.4110022701569394,1.0025817291971717,✅ Selesai
+11,12_tambah_semua,TAMBAH SEMUA: PDRB + TPT + P0 + IPM + Sanitasi + Air Minum + Sekolah,"PDRB, TPT, P0, IPM, Sanitasi, AirMinum, Sekolah",7,3,0.34637642068913366,1.1257966207454297,✅ Selesai
+12,03_k5,K=5: PDRB + TPT + P0 dengan 5 klaster,"PDRB, TPT, P0",3,5,0.34120325679798863,0.8906054268150705,✅ Selesai
+13,01_baseline,"BASELINE: PDRB + TPT + P0 (reproduksi model awal, cari K optimal)","PDRB, TPT, P0",3,3,0.3291136761405788,0.889971805206415,✅ Selesai
+14,13_semua_fitur,SEMUA FITUR: PDRB + TPT + P0 + IPM + Sanitasi + Air Minum + Sekolah + Pengeluaran + UHH + TPAK,"PDRB, TPT, P0, IPM, Sanitasi, AirMinum, Sekolah, Pengeluaran, UHH, TPAK",10,3,0.3118689000726694,1.1668590345097856,✅ Selesai

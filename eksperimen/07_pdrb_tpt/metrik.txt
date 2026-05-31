@@ -1,0 +1,6 @@
+Eksperimen: 2 FITUR: PDRB + TPT (tanpa kemiskinan)
+Fitur (2): PDRB, TPT
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.5549
+Davies-Bouldin Index: 0.6194

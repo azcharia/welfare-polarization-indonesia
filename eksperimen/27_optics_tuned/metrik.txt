@@ -1,0 +1,7 @@
+Eksperimen: 27_optics_tuned
+Algoritma: OPTICS
+Parameter: min_samples=15, xi=0.3, min_cluster_size=0.1
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 1
+Noise: 0

@@ -1,0 +1,9 @@
+Eksperimen: 22_gmm_auto
+Algoritma: GaussianMixture
+Parameter: n_components=6, covariance=full
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 6
+Noise: 0
+Silhouette: 0.1317
+DBI: 1.3899

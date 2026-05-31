@@ -1,0 +1,6 @@
+Eksperimen: TAMBAH SANITASI: PDRB + TPT + P0 + Akses Sanitasi Layak
+Fitur (4): PDRB, TPT, P0, Sanitasi
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.4154
+Davies-Bouldin Index: 1.0475

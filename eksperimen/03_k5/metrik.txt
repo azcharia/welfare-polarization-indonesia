@@ -1,0 +1,6 @@
+Eksperimen: K=5: PDRB + TPT + P0 dengan 5 klaster
+Fitur (3): PDRB, TPT, P0
+Jumlah Klaster (K): 5
+Jumlah Observasi: 514
+Silhouette Score: 0.3412
+Davies-Bouldin Index: 0.8906

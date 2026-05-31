@@ -1,0 +1,6 @@
+Eksperimen: BASELINE: PDRB + TPT + P0 (reproduksi model awal, cari K optimal)
+Fitur (3): PDRB, TPT, P0
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.3291
+Davies-Bouldin Index: 0.8900

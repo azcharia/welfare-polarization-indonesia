@@ -1,0 +1,6 @@
+Eksperimen: TAMBAH SEMUA: PDRB + TPT + P0 + IPM + Sanitasi + Air Minum + Sekolah
+Fitur (7): PDRB, TPT, P0, IPM, Sanitasi, AirMinum, Sekolah
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.3464
+Davies-Bouldin Index: 1.1258

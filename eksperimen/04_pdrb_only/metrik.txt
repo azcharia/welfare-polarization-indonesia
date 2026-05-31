@@ -1,0 +1,6 @@
+Eksperimen: 1 FITUR: PDRB saja — apakah PDRB sendiri bisa membentuk klaster bermakna?
+Fitur (1): PDRB
+Jumlah Klaster (K): 3
+Jumlah Observasi: 514
+Silhouette Score: 0.8187
+Davies-Bouldin Index: 0.4257

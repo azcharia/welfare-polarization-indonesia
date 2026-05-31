@@ -1,0 +1,9 @@
+Eksperimen: 24_spectral_k4
+Algoritma: SpectralClustering
+Parameter: n_clusters=4, affinity=rbf
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 4
+Noise: 0
+Silhouette: 0.5058
+DBI: 0.4952

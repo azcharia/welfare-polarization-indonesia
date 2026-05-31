@@ -1,0 +1,9 @@
+Eksperimen: 21_gmm_k4
+Algoritma: GaussianMixture
+Parameter: n_components=4, covariance=full
+Fitur: PDRB, TPT, P0
+Observasi: 514
+Klaster: 4
+Noise: 0
+Silhouette: 0.1583
+DBI: 1.4353
